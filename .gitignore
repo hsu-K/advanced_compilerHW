@@ -1,0 +1,3 @@
+llvm_build/
+llvm-project-*/
+.vscode/
